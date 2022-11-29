@@ -5,7 +5,7 @@ from setuptools import find_packages
 package_dir = "src"
 
 setup(
-    name='shareaxes',
+    name='mpl_shareaxes',
     version="v1.0.0",
     description=(
         "Share X/Y axis of two or more Axes after they have been created."),
